@@ -1,7 +1,3 @@
-Got it. Here's a tighter version — says what you actually use most, without pretending that’s all you know:
-
----
-
 # Hi, I'm Andrew
 
 I'm a software developer from Scotland who primarily works with **Flutter** and **Python**. I focus on building reliable, privacy-conscious apps with clear structure and practical design.
