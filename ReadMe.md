@@ -27,6 +27,7 @@ On the mobile side I design and maintain production apps focused on reliability 
 
 ## Contact
 
+* Linkedin: [@andrew-gr-ellen](https://www.linkedin.com/in/andrew-gr-ellen/)
 * Email: `andrew.ellen@nutrimotion.app`
 * GitHub: [@andrewellen](https://github.com/andrewellen)
 * Company: [NutriMotion Ltd](https://nutrimotion.app)`
